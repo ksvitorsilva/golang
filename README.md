@@ -16,9 +16,12 @@ Learning [golang]('https://golang.org/')
   - [x] if init
   - [x] for
   - [x] switch
-- [ ] Arrays
-  - [ ] slice
-  - [ ] map
+- [x] Arrays
+  - [x] basic
+  - [x] slice
+  - [x] append
+  - [x] copy
+  - [x] map
 - [ ] Functions
   - [ ] basic
   - [ ] assigns
